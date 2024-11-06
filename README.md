@@ -96,3 +96,14 @@ Reduce Model Limitations: Well-designed prompts guide the AI to overcome common 
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt:
+"Tell me about Python."
+
+Improved Prompt:
+"Explain the key features and syntax of Python programming language, and provide examples of how it’s used in web development."
+
+Why the Improved Prompt is More Effective:
+Clear Intent: The improved prompt specifies exactly what the user wants to know: the key features and syntax of Python.
+Specific Focus: It directs the AI towards Python as a programming language rather than the general concept of "Python" (which could also refer to the snake).
+Concise and Focused: The addition of examples of use in web development narrows the scope, ensuring that the AI focuses on practical applications in a specific context, rather than providing a broad overview.
+Reduces Ambiguity: The original prompt is open-ended and could result in an overly broad response. The improved version guides the model to deliver a focused, relevant, and detailed response.
